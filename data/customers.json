@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Maria",
+    "surname": "Bezzos",
+    "email": "john.bezzos@pear.com",
+    "key": "booksforever",
+    "dateBirth": "2002-05-12",
+    "foto": "john.bezzos.png"
+  },
+  {
+    "name": "Bill",
+    "surname": "Jobs",
+    "email": "bill.jobs@pear.com",
+    "key": "ilikeapples",
+    "dateBirth": "1999-07-02",
+    "foto": "bill.jobs.png"
+  },
+  {
+    "name": "Steve",
+    "surname": "Windows",
+    "email": "steve.windows@pear.com",
+    "key": "ilikelinux",
+    "dateBirth": "1990-04-25",
+    "foto": "steve.windows.png"
+  },
+  {
+    "name": "Barbara",
+    "surname": "Kingsolver",
+    "email": "barbara.kingsolver@pear.com",
+    "key": "blablabla",
+    "dateBirth": "2004-01-03",
+    "foto": "barbara.kingsolver.png"
+  },
+  {
+    "name": "Maria",
+    "surname": "Blanchard",
+    "email": "maria.blanchard@pear.com",
+    "key": "diamondsareforever",
+    "dateBirth": "2001-08-22",
+    "foto": "maria.blanchard.png"
+  },
+  {
+    "name": "Violetta",
+    "surname": "Valery",
+    "email": "violetta.valeryd@pear.com",
+    "key": "diamondsareforever",
+    "dateBirth": "2001-08-22",
+    "foto": "violetta.valery.png"
+  }
+]
